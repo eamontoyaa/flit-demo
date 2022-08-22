@@ -1,2 +1,3 @@
-# flit-demo-940628
+# flit-demo
+
  Just a test for using Flit
