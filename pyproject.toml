@@ -4,7 +4,10 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "flit_demo"
-authors = [{name = "Exneyder A. Montoya-Araque", email = "eamontoyaa@gmail.com"}]
+authors = [
+    {name = "Exneyder A. Montoya-Araque", email = "eamontoyaa@gmail.com"},
+    {name = "Second Author Test", email = "2nd_author_test@email.com"}
+    ]
 readme = "README.md"
 dynamic = ["version", "description"]
 requires-python = ">=3.6"
