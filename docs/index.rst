@@ -6,7 +6,8 @@ flit_demo documentation
    :caption: Contents:
 
    readme
-   modules
+   test
+   test_2
 
 Indices and tables
 ==================

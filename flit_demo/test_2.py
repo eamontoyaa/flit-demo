@@ -1,3 +1,11 @@
+"""
+test_2.py
+=========
+
+Summary for the test_2.py module
+"""
+
+
 def multiply_2_numbers(a, b):
     """Multiply two numbers
 
