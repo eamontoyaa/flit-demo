@@ -1,5 +1,8 @@
+Modules
+=======
+
 ``test``
-========
+--------
 
 .. automodule:: test
     :members:
@@ -7,7 +10,7 @@
     :show-inheritance:
 
 ``test_2``
-==========
+----------
 
 .. automodule:: test_2
     :members:
