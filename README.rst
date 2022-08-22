@@ -1,4 +1,5 @@
-# flit-demo
+flit-demo
+=========
 
 .. image:: https://img.shields.io/badge/Made%20with-Python3-brightgreen.svg
         :target: https://www.python.org/
